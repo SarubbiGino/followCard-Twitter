@@ -17,7 +17,8 @@ Para ejecutar el proyecto en modo de desarrollo, utiliza el siguiente comando:
   ```
 Esto iniciará un servidor local en el puerto 5173 y podrás ver la card de follow en tu navegador en la dirección http://localhost:5173. Los cambios que realices en los archivos se reflejarán automáticamente en tu navegador.
 
-
+</br>
+</br>
 
 Para compilar el proyecto en una versión de producción, utiliza el siguiente comando:
 
@@ -25,7 +26,8 @@ Para compilar el proyecto en una versión de producción, utiliza el siguiente c
     npm run build
  ```
 Esto creará una versión optimizada del proyecto en la carpeta /dist.
-
+</br>
+</br>
 
 
 Para previsualizar la versión de producción antes de publicarla, utiliza el siguiente comando:
