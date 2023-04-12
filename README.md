@@ -1,4 +1,4 @@
-# Proyecto de React con Vite - Card Follow Twitter
+# Proyecto de React con Vite - Card Follow Twitter 
 Este proyecto tiene como objetivo crear una card de follow similar a la de Twitter utilizando React y Vite. Para comenzar, asegúrate de tener Node.js y NPM instalados en tu máquina.
 
 ## Instalación
