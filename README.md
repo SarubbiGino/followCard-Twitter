@@ -26,9 +26,10 @@ Para compilar el proyecto en una versión de producción, utiliza el siguiente c
     npm run build
  ```
 Esto creará una versión optimizada del proyecto en la carpeta /dist.
-</br>
-</br>
 
+</br>
+</br>
+</br>
 
 Para previsualizar la versión de producción antes de publicarla, utiliza el siguiente comando:
 
@@ -37,10 +38,10 @@ Para previsualizar la versión de producción antes de publicarla, utiliza el si
  ```
 Esto iniciará un servidor local en el puerto 5000 y podrás ver la versión optimizada de la card de follow en tu navegador en la dirección http://localhost:5000.
 
-Créditos
+## Créditos
 Este proyecto fue creado por `Gino Sarubbi` como parte de un desafío de programación. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el equipo de desarrollo.
 
-Licencia
+## Licencia
 Este proyecto está bajo la Licencia MIT. Para obtener más información, consulta el archivo LICENSE incluido en este repositorio.
 
 ¡Gracias por utilizar este proyecto de React con Vite para la Card de Follow! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el equipo de desarrollo.
