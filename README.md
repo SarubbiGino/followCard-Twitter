@@ -2,7 +2,7 @@
 Este proyecto tiene como objetivo crear una card de follow similar a la de Twitter utilizando React y Vite. Para comenzar, asegúrate de tener Node.js y NPM instalados en tu máquina.
 
 ## Instalación
-1- Clona este repositorio en tu máquina.
+1- Clona este repositorio en tu máquina. </br>
 2- Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
   ```bash
     npm install
