@@ -39,7 +39,7 @@ Para previsualizar la versión de producción antes de publicarla, utiliza el si
 Esto iniciará un servidor local en el puerto 4173 y podrás ver la versión optimizada de la card de follow en tu navegador en la dirección http://localhost:4173.
 
 ## Créditos
-Este proyecto fue creado por `Gino Sarubbi` como parte de un desafío de programación. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el equipo de desarrollo.
+Este proyecto fue creado por `Gino Sarubbi` como parte de un desafío de programación. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el.
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Para obtener más información, consulta el archivo LICENSE incluido en este repositorio.
