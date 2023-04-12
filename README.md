@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo crear una card de follow similar a la de Twitt
     npm install
   ```
   
-#$ Uso
+# Uso </br>
 Para ejecutar el proyecto en modo de desarrollo, utiliza el siguiente comando:
 
 
