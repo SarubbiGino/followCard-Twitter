@@ -36,7 +36,7 @@ Para previsualizar la versión de producción antes de publicarla, utiliza el si
 ```bash 
    npm run preview
  ```
-Esto iniciará un servidor local en el puerto 5000 y podrás ver la versión optimizada de la card de follow en tu navegador en la dirección http://localhost:5000.
+Esto iniciará un servidor local en el puerto 4173 y podrás ver la versión optimizada de la card de follow en tu navegador en la dirección http://localhost:4173.
 
 ## Créditos
 Este proyecto fue creado por `Gino Sarubbi` como parte de un desafío de programación. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el equipo de desarrollo.
